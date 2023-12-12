@@ -4,7 +4,7 @@
 
 |  | Project's Name | Article Link    | Visualization file.html  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -IP_Traking           |  (https://medium.com/@david.biney/creating-an-interactive-bus-transit-route-map-and-distance-calculation-with-python-a-stepwise-6ab0cbf0ac44) | (file:///Users/mac/Desktop/ip-tracking/mymap.html) |
+| 1 |  -IP_Traking           |  (https://medium.com/@david.biney/aecac960aad4) | (file:///Users/mac/Desktop/ip-tracking/mymap.html) |
 
 
 # Digital mapping bus transit route ✨
