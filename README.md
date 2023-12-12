@@ -4,7 +4,7 @@
 
 |  | Project's Name | Article Link    | Visualization file.html  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -IP_Traking           |  (https://medium.com/@david.biney/creating-an-interactive-bus-transit-route-map-and-distance-calculation-with-python-a-stepwise-6ab0cbf0ac44) | (file:///Users/mac/Desktop/ip-tracking/mymap.html) |
+| 1 |  -IP_Traking           |  (https://medium.com/@david.biney/aecac960aad4) | (file:///Users/mac/Desktop/ip-tracking/mymap.html) |
 
 
 # Digital mapping bus transit route ✨
@@ -37,13 +37,6 @@ The Two commands are of the same structure
 1.Activate the python environment
 2.Upgrade pip to it current version
 3.install the requirements located in requirements.txt: You should be at the root of your env
-
-
-
-
-🚀 **Usage**
------------------
-
 
 
 
