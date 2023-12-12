@@ -41,13 +41,6 @@ The Two commands are of the same structure
 
 
 
-🚀 **Usage**
------------------
-
-
-
-
-
 ✨ **Acknowledgments**
 =================
 
