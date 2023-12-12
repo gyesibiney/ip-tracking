@@ -9,7 +9,7 @@ def get_location(ip_address):
     return location
 
 # loading my ip_address
-myip= '102.176.94.74'
+myip= 'please enter your ip address'
 location_info= get_location(myip)
 
 print('country:',location_info.country)
